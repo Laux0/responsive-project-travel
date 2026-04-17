@@ -1,9 +1,24 @@
-h1 {
-  color: green;
+h1,
+h2,
+h3 {
+  color: #092c56;
   font-family: "Poppins", sans-serif;
+  text-align: center;
 }
 
-p {
-  color: maroon;
+.btn-contact {
+  display: block;
   font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #dce5f5;
+  text-align: center;
+  background-color: #052d70;
+  border: 1px solid #092c56;
+  border-radius: 5px;
+  padding: 15px 30px;
+  line-height: 1.5;
+}
+
+.introduction {
+  background-color: #dce5f5;
 }
