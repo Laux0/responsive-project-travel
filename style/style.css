@@ -4,11 +4,17 @@ h3 {
   color: #092c56;
   font-family: "Poppins", sans-serif;
   text-align: center;
+  margin: 15px;
+}
+
+h1 {
+  font-weight: bold;
 }
 
 .button {
   display: block;
   text-align: center;
+  padding: 30px;
 }
 
 .btn-contact {
@@ -24,4 +30,5 @@ h3 {
 
 .introduction {
   background-color: #dce5f5;
+  padding: 60px 20px;
 }
