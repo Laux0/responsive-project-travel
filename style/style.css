@@ -57,6 +57,26 @@ h3 {
   border: 2px solid var(--primary-color);
 }
 
+.home-description {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  text-align: center;
+  margin: 20px;
+  color: var(--primary-color);
+}
+
+.btn-gallery {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  color: var(--secondary-color);
+  background-color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  border-radius: 10px;
+  padding: 10px 20px;
+  line-height: 1.5;
+  pointer-events: none;
+}
+
 .home-image {
   display: block;
   margin: 20px auto;
