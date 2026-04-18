@@ -50,4 +50,15 @@ h3 {
 .introduction {
   background-color: var(--secondary-color);
   padding: 60px 20px;
+  margin-bottom: 20px;
+}
+
+.container-home {
+  border: 2px solid var(--primary-color);
+}
+
+.home-image {
+  display: block;
+  margin: 20px auto;
+  width: 230px;
 }
