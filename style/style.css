@@ -56,7 +56,7 @@ p {
 
 .introduction {
   background-color: var(--secondary-color);
-  padding: 60px 20px;
+  padding: 80px 20px;
   margin-bottom: 20px;
 }
 
@@ -91,11 +91,7 @@ p {
   width: 230px;
 }
 
-.about-section {
-  padding: 160px 20px;
-}
-
-.about-section h2 {
+.introduction h2 {
   font-size: 28px;
   padding: 0;
 }
