@@ -91,6 +91,12 @@ p {
   width: 230px;
 }
 
+.about-image {
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+}
+
 @media (min-width: 600px) {
   .home-image {
     width: 330px;
