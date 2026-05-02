@@ -183,7 +183,7 @@ footer {
 }
 
 .social-links:hover {
-  color: white;
+  color: var(--primary-color);
 }
 
 .github-footer {
