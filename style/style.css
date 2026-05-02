@@ -186,6 +186,14 @@ footer {
   color: white;
 }
 
+.github-footer {
+  padding: 20px;
+}
+
+.github-link {
+  color: var(--primary-color);
+}
+
 @media (min-width: 600px) {
   .home-image {
     width: 330px;
