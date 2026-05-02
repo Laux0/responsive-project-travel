@@ -3,15 +3,10 @@
   --secondary-color: #dce5f5;
 }
 
-nav {
-  color: var(--primary-color);
-  font-family: "Poppins", sans-serif;
-  font-size: 20px;
-}
-
 nav li {
   display: inline;
-  text-decoration: none;
+  text-decoration: underline;
+  padding: 10px;
 }
 
 h1,
@@ -51,6 +46,11 @@ ul {
   color: var(--primary-color);
   font-family: "Poppins", sans-serif;
   font-size: 20px;
+}
+
+.navigation {
+  margin: 10px;
+  padding: 10px;
 }
 
 .button {
