@@ -9,6 +9,15 @@ nav li {
   padding: 10px;
 }
 
+nav a {
+  color: var(--primary-color);
+}
+
+nav a:hover {
+  color: var(--secondary-color);
+  transition: all 100ms ease-in-out;
+}
+
 h1,
 h2 {
   color: var(--primary-color);
