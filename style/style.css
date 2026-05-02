@@ -148,6 +148,14 @@ footer {
   max-width: 80%;
 }
 
+.contact-link,
+.contact-link:hover,
+.contact-link:active {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  color: var(--primary-color);
+}
+
 .contact-method {
   margin: 20px;
   padding: 10px;
