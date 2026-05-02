@@ -57,6 +57,11 @@ ul {
   font-size: 20px;
 }
 
+footer {
+  text-align: center;
+  background-color: var(--secondary-color);
+}
+
 .navigation {
   margin: 10px;
   padding: 10px;
@@ -144,6 +149,24 @@ ul {
 .contact-method {
   margin: 20px;
   padding: 10px;
+}
+
+.email-link {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  color: var(--primary-color);
+}
+
+.email-link:hover {
+  color: white;
+}
+
+.social-links {
+  color: var(--primary-color);
+}
+
+.social-links:hover {
+  color: white;
 }
 
 @media (min-width: 600px) {
