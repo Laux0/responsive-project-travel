@@ -155,6 +155,7 @@ footer {
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   color: var(--primary-color);
+  transition: all 100ms ease-in-out;
 }
 
 .email-link:hover {
@@ -163,6 +164,7 @@ footer {
 
 .social-links {
   color: var(--primary-color);
+  transition: all 100ms ease-in-out;
 }
 
 .social-links:hover {
